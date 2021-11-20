@@ -1,0 +1,12 @@
+ {  "name": "Baby CateCoin",
+    "symbol": "BabyCATE",
+    "type": "BEP20",     
+    "decimals": 9,
+    "website": "https://babycatecoin.net/",
+    "description": "Baby Catecoin, with the enticing popularity of the cat meme paradigm, we bring you real utility to the memecoin market. A community driven, fair launched DeFi Token on Binance Smartchain.",
+    "explorer": "https://bscscan.com/token/0x1529642Cd0075d3DA049aA43005fdfaBCa54a070",
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/catecoinbaby"
+    }
+}
